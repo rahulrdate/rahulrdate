@@ -2,6 +2,7 @@
 - 👀 I’m a DevOps 
 - 🌱 I’m currently automating
 - 💞️ I’m looking to collaborate on DevOps related tools
+- [📝 Blog](https://rahulrdate.github.io/devops-novice/)
 - 📫 rahulrdate@gmail.com
 
 <!---
